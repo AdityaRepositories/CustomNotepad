@@ -1,9 +1,3 @@
-# i=0
-# def inc():
-#     global i 
-#     i+=1
-# inc()
-# print(i)
 
 from notepad import *
 
