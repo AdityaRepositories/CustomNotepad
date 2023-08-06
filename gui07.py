@@ -1,6 +1,7 @@
+# This file is linked with notepad.py
+
 
 from notepad import *
-
 
 if __name__=='__main__':
 
@@ -13,5 +14,3 @@ if __name__=='__main__':
 
     root.config(menu=menu)
     root.mainloop()
-    
-
